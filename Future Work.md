@@ -38,7 +38,7 @@ Our solution employs a hybrid architecture combining local Excel processing via 
 ## Key Components
 
 ### 1. Question Analysis (LLM API)
-Processes natural language questions using advanced reasoning models like GPT-4o to:
+Processes natural language questions using advanced reasoning models like o1 to:
 - Identify the business objective
 - Determine required data points
 - Plan calculation approaches

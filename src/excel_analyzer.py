@@ -1,6 +1,6 @@
 """
 Excel Analyzer MCP Server
-This application helps analyze Excel files using the Model Context Protocol.
+This application helps analyze Excel files via Claude Desktop using the Model Context Protocol.
 """
 
 from mcp.server.fastmcp import FastMCP, Image
